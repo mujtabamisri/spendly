@@ -17,3 +17,4 @@ spendly-backup-*.json
 # Logs
 *.log
 npm-debug.log*
+*.tsbuildinfo
