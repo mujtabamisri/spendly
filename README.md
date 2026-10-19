@@ -30,15 +30,6 @@ Check production output:
 npm.cmd run build
 ```
 
-## Deploy free to GitHub Pages
-
-1. Create an empty public GitHub repository named `spendly` (do not add a README or license on GitHub).
-2. Commit and push this folder to its `main` branch. See [PUBLISHING.md](PUBLISHING.md) for commands.
-3. In **Settings → Pages**, select **GitHub Actions** as the source.
-4. Open the **Actions** tab and verify the **Deploy Spendly to GitHub Pages** workflow succeeds.
-5. Visit `https://YOUR-USERNAME.github.io/spendly/`.
-
-The workflow runs `npm install` and `npm run build`, then publishes `dist/`. No server or API key is needed.
 
 ## Privacy and persistence
 
