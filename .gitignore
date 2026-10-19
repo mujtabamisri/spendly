@@ -1,8 +1,19 @@
 node_modules/
 dist/
+
+# Environment variables
 .env
 .env.*
 !.env.example
 *.local
+
+# Operating system files
 .DS_Store
+Thumbs.db
+
+# Local financial backups
 spendly-backup-*.json
+
+# Logs
+*.log
+npm-debug.log*
