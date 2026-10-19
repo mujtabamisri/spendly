@@ -6,7 +6,7 @@ Created by **Mujtaba Ali Misri**. Licensed under the **MIT License** (see [LICEN
 
 # Live Site View
 
-Link: [https://mujtabamisri.github.io/spendly/](url)
+Link: [mujtabamisri.github.io/spendly/](url)
 
 ## Features
 
